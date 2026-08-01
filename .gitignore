@@ -1,0 +1,24 @@
+# OS junk files
+.DS_Store
+Thumbs.db
+__MACOSX/
+desktop.ini
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.swp
+
+# Python
+__pycache__/
+*.pyc
+
+# Compiled Java
+*.class
+
+# Archives (avoid committing zipped copies of the dataset)
+*.zip
+
+# Logs / temp
+*.log
+*.tmp

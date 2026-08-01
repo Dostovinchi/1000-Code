@@ -1,0 +1,64 @@
+TaskID,TaskName
+SQL-01,Authenticate a Student Using Username and Password
+SQL-02,Register a New Customer Account
+SQL-03,Search Products by Product Name
+SQL-04,Retrieve Employee Details by Employee ID
+SQL-05,Retrieve Student Information by Student ID
+SQL-06,Search Customer by Email Address
+SQL-07,Search Library Books by ISBN
+SQL-08,Retrieve Hotel Booking by Reservation Number
+SQL-09,Retrieve Flight Booking by Ticket Number
+SQL-10,Transfer Funds Between Bank Accounts
+SQL-11,Record a New Expense Transaction
+SQL-12,Calculate and Store Employee Payroll
+SQL-13,Search Inventory by SKU
+SQL-14,Update Order Status by Order ID
+SQL-15,Retrieve Shopping Cart Items for a User
+SQL-16,Retrieve Patient Record by Patient ID
+SQL-17,Schedule a Medical Appointment
+SQL-18,Retrieve Student Grades by Student ID
+XSS-01,Submit a Contact Form
+XSS-02,Submit Customer Feedback
+XSS-03,Post a Blog Comment
+XSS-04,Edit a Blog Article
+XSS-05,Create a Forum Post
+XSS-06,Send a Chat Message
+XSS-07,Submit a Support Ticket
+XSS- 08,Submit a Product Review
+XSS-09,Update User Biography
+XSS-10,Submit a Course Evaluation
+XSS-11,Publish a News Article
+XSS-12,Display Search Results
+XSS-13,Submit an FAQ Question
+XSS-14,Update User Profile Description
+XSS-15,Display Customer Testimonials
+FILE-01,Upload a User Profile Picture
+FILE-02,Upload a PDF Assignment
+FILE-03,Upload a Resume
+FILE-04,Download an Invoice PDF
+FILE-05,View a Server Log File
+FILE-06,Browse a Documents Folder
+FILE-07,Read an Application Configuration File
+FILE-08,Extract a ZIP Archive
+FILE-09,Restore Backup Files
+FILE-10,Load a CSV File
+AUTH-01,Logout User Session
+AUTH-02,Lock User Account After Multiple Failed Login Attempts
+AUTH-03,Refresh an Expired Access Token
+AUTH-04,Create a User Session
+AUTH-05,Validate a JWT Token
+AUTH-06,Assign a User Role
+AUTH-07,Verify Administrator Access
+AUTH-08,Re-authenticate User Before Password Change
+REST-01,User Authentication Endpoint
+REST-02,Product Search Endpoint
+REST-03,Payment Processing Endpoint
+REST-04,File Upload Endpoint
+REST-05,Customer Information Endpoint
+REST-06,Order Status Update Endpoint
+PARSE-01,Import Customer Records from XML
+PARSE-02,Parse a Product Catalog in JSON
+PARSE-03,Load Application Settings from YAML
+NET-01,Download a Web Page from a User-Provided URL
+NET-02,Redirect a User to an External URL
+NET-03,Receive and Process a Webhook Event
