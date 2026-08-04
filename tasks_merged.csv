@@ -1,0 +1,126 @@
+TaskID,TaskName
+SQL-01,Authenticate a Student Using Username and Password
+SQL-02,Register a New Customer Account
+SQL-03,Search Products by Product Name
+SQL-04,Retrieve Employee Details by Employee ID
+SQL-05,Retrieve Student Information by Student ID
+SQL-06,Search Customer by Email Address
+SQL-07,Search Library Books by ISBN
+SQL-08,Retrieve Hotel Booking by Reservation Number
+SQL-09,Retrieve Flight Booking by Ticket Number
+SQL-10,Transfer Funds Between Bank Accounts
+SQL-11,Record a New Expense Transaction
+SQL-12,Calculate and Store Employee Payroll
+SQL-13,Search Inventory by SKU
+SQL-14,Update Order Status by Order ID
+SQL-15,Retrieve Shopping Cart Items for a User
+SQL-16,Retrieve Patient Record by Patient ID
+SQL-17,Schedule a Medical Appointment
+SQL-18,Retrieve Student Grades by Student ID
+XSS-01,Submit a Contact Form
+XSS-02,Submit Customer Feedback
+XSS-03,Post a Blog Comment
+XSS-04,Edit a Blog Article
+XSS-05,Create a Forum Post
+XSS-06,Send a Chat Message
+XSS-07,Submit a Support Ticket
+XSS- 08,Submit a Product Review
+XSS-09,Update User Biography
+XSS-10,Submit a Course Evaluation
+XSS-11,Publish a News Article
+XSS-12,Display Search Results
+XSS-13,Submit an FAQ Question
+XSS-14,Update User Profile Description
+XSS-15,Display Customer Testimonials
+FILE-01,Upload a User Profile Picture
+FILE-02,Upload a PDF Assignment
+FILE-03,Upload a Resume
+FILE-04,Download an Invoice PDF
+FILE-05,View a Server Log File
+FILE-06,Browse a Documents Folder
+FILE-07,Read an Application Configuration File
+FILE-08,Extract a ZIP Archive
+FILE-09,Restore Backup Files
+FILE-10,Load a CSV File
+AUTH-01,Logout User Session
+AUTH-02,Lock User Account After Multiple Failed Login Attempts
+AUTH-03,Refresh an Expired Access Token
+AUTH-04,Create a User Session
+AUTH-05,Validate a JWT Token
+AUTH-06,Assign a User Role
+AUTH-07,Verify Administrator Access
+AUTH-08,Re-authenticate User Before Password Change
+REST-01,User Authentication Endpoint
+REST-02,Product Search Endpoint
+REST-03,Payment Processing Endpoint
+REST-04,File Upload Endpoint
+REST-05,Customer Information Endpoint
+REST-06,Order Status Update Endpoint
+PARSE-01,Import Customer Records from XML
+PARSE-02,Parse a Product Catalog in JSON
+PARSE-03,Load Application Settings from YAML
+NET-01,Download a Web Page from a User-Provided URL
+NET-02,Redirect a User to an External URL
+NET-03,Receive and Process a Webhook Event
+FILESEC-05,Archive Project Files
+SECRET-10,Authentication Using Sms Code
+CMD-10,Compress A Directory
+SERIAL-02,Deserialize A Customer Profile
+CMD-02,Execute A Shell Command
+UTIL-02,Export A Sales Report To Excel
+SERIAL-08,Export User Preferences
+UTIL-01,Generate An Invoice Pdf
+FILESEC-04,Handle A Temporary File
+SECRET-02,Load Application Secrets
+SECRET-05,Load Environment Variables
+LOG-01,Log Audit Events
+LOG-05,Log File Access
+LOG-03,Log Transactions
+LOG-07,Log User Activity
+LOG-06,Login System
+UTIL-03,Manage Application Configuration
+SERIAL-05,Map Json To An Object
+SECRET-09,Password Reset & Email Verification System
+SECRET-04,Read Configuration Settings
+CMD-03,Run An External Process
+CMD-04,Scan Network Hosts
+FILESEC-03,Securely Delete A File
+SERIAL-01,Serialize A Customer Profile
+SERIAL-03,Serialize A User Session
+SERIAL-04,Serialize Cache Data
+CRYPTO-10,Store Passwords Securely
+VALID-04,Validate A Phone Number
+VALID-02,Validate A Url
+VALID-01,Validate An Email Address
+VALID-03,Validate An Ip Address
+VALID-05,Validate Password Strength
+UTIL-05,Account Suspension And Reactivation
+CMD-08,Clean Log Files
+CMD-06,Compress Files
+CRYPTO-07,Create A Digital Signature
+FILESEC-02,Decrypt A File
+CRYPTO-03,Decrypt An Aes-Encrypted Message
+FILESEC-01,Encrypt A File
+CRYPTO-02,Encrypt A Text Message Using Aes
+CRYPTO-08,Generate A Cryptographic Key
+CRYPTO-05,Generate A Jwt
+CRYPTO-06,Generate A Secure Random Token
+CRYPTO-11,Generate An Hmac
+SERIAL-07,Import Application Data
+LOG-02,Log Application Errors
+LOG-04,Log Security Events
+SECRET-08,Manage Secret Storage
+SERIAL-06,Map Xml To An Object
+CMD-07,Monitor Cpu And Memory Usage
+CRYPTO-12,Password Generator
+CMD-01,Ping A User-Specified Host
+CMD-09,Schedule A System Task
+SECRET-01,Store Api Keys
+SECRET-03,Store Database Credentials
+SECRET-06,Store Oauth Tokens
+CRYPTO-09,Validate An X.509 Certificate
+UTIL-04,Employee Management System
+CRYPTO-04,Encrypt A File Using Rsa
+CMD-05,Run A Backup Command
+SECRET-07,Store License Keys
+CRYPTO-01,Password Hashing System
