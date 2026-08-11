@@ -1,7 +1,0 @@
-Language,generatedFile,CWE,VulnerabilityName,OWASPTop10Category,Severity,ToolsFlagging,ToolCount,CodeLocation,message
-Java,CWE89_SQL_Injection__Environment_executeBatch_81_bad.java,CWE-89,SQL Injection,A03:2021-Injection,MAJOR,CodacyCLI;CodeQL;Semgrep;Sonar,4,Line 45,"Formatted string used in a SQL statement (addBatch), SQL injection risk if variables aren't sanitized. Use PreparedStatement instead."
-Java,CWE89_SQL_Injection__connect_tcp_executeQuery_81_bad.java,CWE-89,SQL Injection,A03:2021-Injection,MAJOR,CodacyCLI;CodeQL;Semgrep;Sonar,4,Line 42,"Formatted string used in a SQL statement (executeQuery), SQL injection risk if variables aren't sanitized. Use PreparedStatement instead."
-Python,BenchmarkTest00168.py,CWE-78,OS Command Injection,A03:2021-Injection,BLOCKER,CodacyCLI;CodeQL;Semgrep,3,Line 60,"subprocess.run called with shell=True, enables command injection."
-Python,BenchmarkTest00433.py,CWE-502,Insecure Deserialization,A08:2021-Software and Data Integrity Failures,BLOCKER,CodacyCLI;CodeQL;Semgrep,3,Line 46,"Unsafe YAML deserialization (yaml.Loader), enables arbitrary code execution."
-Python,BenchmarkTest00585.py,CWE-327,Use of Weak/Broken Cryptographic Algorithm (SHA1),A02:2021-Cryptographic Failures,CRITICAL,CodacyCLI;Semgrep;Sonar,3,Line 56,"SHA1 hash algorithm is insecure, use SHA256 or SHA3 instead."
-Python,BenchmarkTest01098.py,CWE-78,OS Command Injection,A03:2021-Injection,BLOCKER,CodacyCLI;CodeQL;Semgrep,3,Line 53,"subprocess.run called with shell=True, enables command injection."
