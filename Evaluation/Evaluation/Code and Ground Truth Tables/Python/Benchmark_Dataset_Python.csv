@@ -1,0 +1,21 @@
+FileName,Category,CWE,RealVulnerability
+BenchmarkTest00168.py,Command Injection,78,Vulnerable
+BenchmarkTest00283.py,SQL Injection,89,Vulnerable
+BenchmarkTest00343.py,Code Injection,94,Vulnerable
+BenchmarkTest00353.py,Path Traversal,22,Vulnerable
+BenchmarkTest00433.py,Insecure Deserialization,502,Vulnerable
+BenchmarkTest00456.py,XPath Injection,643,Vulnerable
+BenchmarkTest00460.py,XML External Entity (XXE),611,Vulnerable
+BenchmarkTest00502.py,Trust Boundary Violation,501,Vulnerable
+BenchmarkTest00585.py,Weak Hash,328,Vulnerable
+BenchmarkTest00596.py,Open Redirect,601,Vulnerable
+BenchmarkTest00630.py,Weak Randomness,330,Safe
+BenchmarkTest00752.py,Cross-Site Scripting (XSS),79,Safe
+BenchmarkTest00809.py,Insecure Cookie (Secure Flag),614,Safe
+BenchmarkTest00851.py,XML External Entity (XXE),611,Safe
+BenchmarkTest00892.py,Code Injection,94,Safe
+BenchmarkTest00990.py,LDAP Injection,90,Safe
+BenchmarkTest01004.py,Path Traversal,22,Safe
+BenchmarkTest01021.py,SQL Injection,89,Safe
+BenchmarkTest01096.py,Insecure Deserialization,502,Safe
+BenchmarkTest01098.py,Command Injection,78,Safe
